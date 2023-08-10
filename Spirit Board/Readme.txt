@@ -1,0 +1,1 @@
+Spirit board or Ouija board. The letter coordinates have been mapped. The script can give predefined answers to specific questions/ key words. It can also be controlled by a HUD that sends the letter/number/yes/no/goodbye commands. 
